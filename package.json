@@ -1,5 +1,5 @@
 {
-  "name": "my-first-app",
+  "name": "angular-v16-the-basics",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,9 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "predeploy": "ng build --configuration production --output-path=dist/angular-v16-the-basics --base-href=/angular-v16-the-basics/",
+    "deploy": "gh-pages -d dist/angular-v16-the-basics"
   },
   "private": true,
   "dependencies": {
@@ -31,11 +33,14 @@
     "@angular/compiler-cli": "^17.0.0",
     "@types/jasmine": "~5.1.0",
     "jasmine-core": "~5.1.0",
+    "angular-cli-ghpages": "^2.0.1",
+    "gh-pages": "^6.1.1",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.2.2"
-  }
+  },
+  "homepage": "https://flavia3107.github.io/angular-v16-the-basics"
 }
