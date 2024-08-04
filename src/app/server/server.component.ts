@@ -18,6 +18,6 @@ export class ServerComponent {
   }
 
   getColor() {
-    return this.serverStatus === 'online' ? '#76c977' : '#ff5f5f';
+    return this.serverStatus === 'online' ? '#dcf2dd' : '#fee6e6';
   }
 }
