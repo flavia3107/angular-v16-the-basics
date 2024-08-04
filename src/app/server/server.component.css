@@ -1,0 +1,9 @@
+.server {
+    padding: 1rem;
+    border-radius: 15px;
+    border: 3px solid #f25a5a;
+}
+
+.online {
+    border-color: #77c078;
+}
