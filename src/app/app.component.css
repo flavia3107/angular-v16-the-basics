@@ -11,3 +11,74 @@ h3 {
   color: #484848;
   font-size: 1.5rem;
 }
+
+.navigation-top {
+  width: 100%;
+  height: 3.5rem;
+}
+
+.navigation-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0;
+  height: 100%;
+  align-items: center;
+  padding: 4px 1rem;
+  box-sizing: border-box;
+}
+
+.navigation-container li {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+header {
+  text-align: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo > img {
+  height: 35px;
+}
+
+.logo-txt {
+  padding-left: 7px;
+  display: flex;
+  flex-direction: column;
+  color: #1b1a1a;
+  align-items: flex-start;
+}
+
+.logo-img {
+  width: 2rem;
+  margin-right: 3px;
+}
+
+.logo-txt h1,
+.logo-txt span {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  letter-spacing: 4px;
+}
+
+.logo-txt h1 {
+  font-weight: bolder;
+  font-size: 1.1rem;
+  margin-top: 2px;
+}
+
+.logo-txt span {
+  font-weight: lighter;
+  font-size: 0.85rem;
+}
+
+ul {
+  list-style: none;
+}
