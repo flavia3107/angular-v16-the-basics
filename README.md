@@ -20,7 +20,7 @@ It introduces the **core concepts** of Angular 16, helping you build a solid fou
 
 - **Languages**: TypeScript, HTML, CSS  
 - **Framework**: Angular 16  
-- **Styling**: Angular Material (optional), SCSS  
+- **Styling**: Angular Material, SCSS  
 - **Tools**: VS Code, Git, GitHub  
 
 ---
