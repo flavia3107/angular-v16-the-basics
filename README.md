@@ -1,28 +1,43 @@
-# MyFirstApp
+# 💡 Angular v16: The Basics
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This mini project is part of the **Angular - The Complete Guide (2025 Edition)** Udemy course.  
+It introduces the **core concepts** of Angular 16, helping you build a solid foundation for further development.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## 📌 Features
 
-## Code scaffolding
+- **Setting up an Angular 16 project**  
+- **Creating components**  
+- **Data binding** (interpolation, property, event, two-way)  
+- **Built-in directives** (`ngIf`, `ngFor`, `ngClass`, etc.)  
+- **Understanding the Angular template syntax**  
+- **Modular project structure**  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🛠️ Tech Stack
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- **Languages**: TypeScript, HTML, CSS  
+- **Framework**: Angular 16  
+- **Styling**: Angular Material, SCSS  
+- **Tools**: VS Code, Git, GitHub  
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🎯 Learning Objectives
 
-## Running end-to-end tests
+✅ Build a **basic Angular app**  
+✅ Master **component creation and interaction**  
+✅ Learn to **bind data** and control app logic  
+✅ Apply **directives** for dynamic content  
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+---
+## 🚀 Live Demo
 
-## Further help
+[Demo](https://flavia3107.github.io/angular-v16-the-basics/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# angular-v16-the-basics
+## 🎖️ Credits
+
+This project is built as part of the [**Udemy Course: Angular - The Complete Guide (2025 Edition)**](https://www.udemy.com/course-dashboard-redirect/?course_id=756150) by Maximilian Schwarzmüller.
+
