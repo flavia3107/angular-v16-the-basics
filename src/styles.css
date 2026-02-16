@@ -1,4 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    font-family: sans;
+}
+
+body {
+    margin: 0;
+}
+
 ::-webkit-scrollbar {
     height: 9px;
     width: 9px;
@@ -16,17 +24,4 @@
 
 ::-webkit-scrollbar-corner {
     background: transparent;
-}
-
-.movie-details-content-container div::-webkit-scrollbar-thumb {
-    background: #9b9b9b;
-    width: 3px;
-}
-
-.movie-details-content-container div::-webkit-scrollbar {
-    width: 3px;
-}
-
-body {
-    margin: 0;
 }
